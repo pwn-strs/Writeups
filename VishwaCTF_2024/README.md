@@ -10,14 +10,14 @@ Solves:
 |2.    | Feedback                  | 100        | Miscellaneous         | 02:42 PM, 03 Mar 24   | [x]    |
 |3.    | HARDWARE HEIST            | 257        | Miscellaneous         | 01:32 PM, 03 Mar 24   | [x]    |
 |4.    | Wired Secrets             | 490        | Digital Forensics     | 01:24 PM, 03 Mar 24   | [.]    |
-|5.    | They Are Coming           | 200        | Web                   | 11:55 AM, 03 Mar 24   | [.]    |
+|5.    | They Are Coming           | 200        | Web                   | 11:55 AM, 03 Mar 24   | [x]    |
 |6.    | Repo Riddles              | 412        | Digital Forensics     | 11:16 AM, 03 Mar 24   | [.]    |
 |7.    | Sagar Sangram             | 300        | OSINT                 | 10:49 AM, 03 Mar 24   | [x]    |
 |8.    | Teyvat Tales              | 300        | Cryptography          | 10:34 AM, 03 Mar 24   | [x]    |
 |9.    | Cyber Pursuit Manhunt     | 606        | OSINT                 | 11:44 PM, 02 Mar 24   | [x]    |
-|10.   | Prompt Injection          | 750        | Web                   | 10:57 PM, 02 Mar 24   | [.]    |
+|10.   | Prompt Injection          | 750        | Web                   | 10:57 PM, 02 Mar 24   | [x]    |
 |11.   | Smoke out the Rat         | 286        | Digital Forensics     | 08:37 PM, 02 Mar 24   | [.]    |
-|12.   | H34D3RS                   | 214        | Web                   | 06:04 PM, 02 Mar 24   | [.]    |
+|12.   | H34D3RS                   | 214        | Web                   | 06:04 PM, 02 Mar 24   | [x]    |
 |13.   | Secret Code               | 500        | Steganography         | 05:04 PM, 02 Mar 24   | [x]    |
 |14.   | Mysterious Old Case       | 311        | Steganography         | 11:49 AM, 02 Mar 24   | [x]    |
 |15.   | Router \|port\|           | 389        | Digital Forensics     | 10:55 AM, 02 Mar 24   | [.]    |
