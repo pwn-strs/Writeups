@@ -7,8 +7,8 @@ Solves:
 |idx   | challenge name            | points     | category              | timestamp             | written|
 |----- | ------------------------- | ---------- | --------------------- | --------------------- | -------|
 |1.    | Sandese Aate hai          | 401        | Reverse Engineering   | 03:37 PM, 03 Mar 24   | [x]    |
-|2.    | Feedback                  | 100        | Miscellaneous         | 02:42 PM, 03 Mar 24   | [.]    |
-|3.    | HARDWARE HEIST            | 257        | Miscellaneous         | 01:32 PM, 03 Mar 24   | [.]    |
+|2.    | Feedback                  | 100        | Miscellaneous         | 02:42 PM, 03 Mar 24   | [x]    |
+|3.    | HARDWARE HEIST            | 257        | Miscellaneous         | 01:32 PM, 03 Mar 24   | [x]    |
 |4.    | Wired Secrets             | 490        | Digital Forensics     | 01:24 PM, 03 Mar 24   | [.]    |
 |5.    | They Are Coming           | 200        | Web                   | 11:55 AM, 03 Mar 24   | [.]    |
 |6.    | Repo Riddles              | 412        | Digital Forensics     | 11:16 AM, 03 Mar 24   | [.]    |
