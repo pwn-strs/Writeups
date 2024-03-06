@@ -30,6 +30,6 @@ Solves:
 |22.   | The end is beginning      | 200        | OSINT                 | 06:39 PM, 01 Mar 24   | [x]    |
 |23.   | Save The City             | 200        | Web                   | 05:39 PM, 01 Mar 24   | [x]    |
 |24.   | We Are Valorant           | 200        | Steganography         | 05:30 PM, 01 Mar 24   | [x]    |
-|25.   | Who am I?                 | 200        | Miscellaneous         | 05:24 PM, 01 Mar 24   | [.]    |
+|25.   | Who am I?                 | 200        | Miscellaneous         | 05:24 PM, 01 Mar 24   | [x]    |
 |26.   | Poly Fun                  | 300        | Cryptography          | 05:06 PM, 01 Mar 24   | [x]    |
 |27.   | Welcome to VishwaCTF'24   | 50         | Miscellaneous         | 04:03 PM, 01 Mar 24   | [x]    |
