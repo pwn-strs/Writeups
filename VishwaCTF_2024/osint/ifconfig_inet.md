@@ -14,16 +14,12 @@ Guide Elliot to the his destiny.
 
 and were required to find out about the 
 ```
-name of DAT file with extension and IP address of Terry Colby```
+name of DAT file with extension and IP address of Terry Colby
 
 ```
 
 
 
-```
-which had the description
-
-```
 The story is of Mr.Robot series 
 eps1.0_hellofriend.mov
 
