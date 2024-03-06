@@ -18,8 +18,8 @@ Solves:
 |10.   | Prompt Injection          | 750        | Web                   | 10:57 PM, 02 Mar 24   | [.]    |
 |11.   | Smoke out the Rat         | 286        | Digital Forensics     | 08:37 PM, 02 Mar 24   | [.]    |
 |12.   | H34D3RS                   | 214        | Web                   | 06:04 PM, 02 Mar 24   | [.]    |
-|13.   | Secret Code               | 500        | Steganography         | 05:04 PM, 02 Mar 24   | [.]    |
-|14.   | Mysterious Old Case       | 311        | Steganography         | 11:49 AM, 02 Mar 24   | [.]    |
+|13.   | Secret Code               | 500        | Steganography         | 05:04 PM, 02 Mar 24   | [x]    |
+|14.   | Mysterious Old Case       | 311        | Steganography         | 11:49 AM, 02 Mar 24   | [x]    |
 |15.   | Router \|port\|           | 389        | Digital Forensics     | 10:55 AM, 02 Mar 24   | [.]    |
 |16.   | Trip To Us                | 200        | Web                   | 05:20 AM, 02 Mar 24   | [x]    |
 |17.   | Intellectual Heir         | 500        | Cryptography          | 02:37 AM, 02 Mar 24   | [x]    |
@@ -29,7 +29,7 @@ Solves:
 |21.   | TRY HACK ME               | 300        | OSINT                 | 09:25 PM, 01 Mar 24   | [x]    |
 |22.   | The end is beginning      | 200        | OSINT                 | 06:39 PM, 01 Mar 24   | [x]    |
 |23.   | Save The City             | 200        | Web                   | 05:39 PM, 01 Mar 24   | [x]    |
-|24.   | We Are Valorant           | 200        | Steganography         | 05:30 PM, 01 Mar 24   | [.]    |
+|24.   | We Are Valorant           | 200        | Steganography         | 05:30 PM, 01 Mar 24   | [x]    |
 |25.   | Who am I?                 | 200        | Miscellaneous         | 05:24 PM, 01 Mar 24   | [.]    |
 |26.   | Poly Fun                  | 300        | Cryptography          | 05:06 PM, 01 Mar 24   | [x]    |
 |27.   | Welcome to VishwaCTF'24   | 50         | Miscellaneous         | 04:03 PM, 01 Mar 24   | [x]    |
