@@ -26,16 +26,16 @@ eps1.0_hellofriend.mov
 first looking up for the .dat file, we end up in wikipedia (https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes)
 
 ```
-He identifies a file labeled **fsociety00.dat** an and....
+He identifies a file labeled **fsociety00.dat** and....
 ```
 and for the ip address, we had to look through the fandom page (https://mrrobot.fandom.com/wiki/Eps1.0_hellofriend.mov)
 
 ```
-Mr Robot instructs Elliott to modify the .dat file to include Colby's IP address. While technically possible to do so, the IP address given is an invalid IPv4 address: 218.108.149.373.
+...the IP address given is an invalid IPv4 address: 218.108.149.373....
 ```
 
-```
+
 Thus, we found the flag by combining the two parts.
-```
+
 
 # Flag: `VishwaCTF{fsociety00.dat_218.108.149.373}`
