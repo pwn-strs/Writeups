@@ -103,3 +103,5 @@ $ exiftool bWV0YXZlcnNlb2ZtYWRuZXNz.jpg
 Comment                         : pearl{3v3ryb0dy_f0rgets_ab0ut_m3tadat4}
 ...
 ```
+
+# FLAG: `pearl{3v3ryb0dy_f0rgets_ab0ut_m3tadat4}`
